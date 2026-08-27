@@ -16,9 +16,6 @@ Actual n8n workflow canvas:
 
 ![Sales Data Pipeline — n8n workflow](Sales%20Data%20Pipeline.png)
 
-Simplified architecture view:
-
-![Sales Data Pipeline architecture diagram](images/workflow-diagram.svg)
 
 ## Architecture
 
