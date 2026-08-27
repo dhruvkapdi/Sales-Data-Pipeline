@@ -14,7 +14,7 @@ This pipeline automates that: it runs daily, pulls from every connected sheet, n
 
 Actual n8n workflow canvas:
 
-![Sales Data Pipeline — n8n workflow](images/sales-data-pipeline-screenshot.png)
+![Sales Data Pipeline — n8n workflow](Sales%20Data%20Pipeline.png)
 
 Simplified architecture view:
 
